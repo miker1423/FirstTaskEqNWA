@@ -25,6 +25,6 @@ app.get("/info", function(req, res){
     })
 });
 
-var port = process.env.port || 3000
+var port = process.env.PORT || 3000
 
 app.listen(port, () => console.log('Example app listening on port 3000!'))

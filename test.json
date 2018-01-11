@@ -1,1 +1,36 @@
-{"value":{"cesar":{"contenido":"I have enjoyed using React JS, Node JS and Mongo DB, but that's not quite the case for PHP, CakePHP and in general CMS based on PHP. As for projects, when I worked at Central de Cambio, I developed the website (centraldecambio.com) and also a side project for the Hub. I would like to learn more about Web security, because I feel even though I have worked on web development for a while, I have not implemented the best practices on terms of security. I have some experience on frontend topics, as well as a bit from backend.","nombre":"César Espinosa"},"dennis":{"contenido":"I've only used a framework from python called Flask and mongoDB with HTML CSS and JS. \tThe only project that I've done was for the course of Bases de Datos Avanzadas which calculated the probability of making any transaction between football teams.  \tI want to learn more tools and master the ones that are the most used.  I more less know JSON, HTML, CSS, and JS.","nombre":"Dennis Kingston"},"miguel":{"contenido":"Throughout my time developing I've used a bunch of different tools, like Ruby on rails, Flask, ASP.NET Core, PHP, also I've used some of the most common DBs, like SQL, MongoDB, Cassandra, Azure Storage, Firebase and others. I really don't like Python, and sometimes JS. I'm proud of my work with 'Federacion de hemofilia', we really worked to get a good system for them regarding the registration of patients. I would like to learn more about the technologies that are getting tracktion. I'm familiar with JSON, Backend development and web services on various standards, as well as some part of distributed systems based on the actor model.","nombre":"Miguel Pérez"},"paco":{"contenido":"Some web related tools I like are: Firebase and JQuery and the web standards (HTML, CSS, JS). I’ve never had bad experiences with the tool, but that’s maybe because I haven’t use a lot of them. One project I’m proud of is the webpage that my team created for the hospital. What I expect from the class is to become better at developing back-end and services for web applications. Some of the topics I’m familiar with are front-end and a little bit of back-end.","nombre":"Francisco Robles"},"proyecto":{"descripcion":"x","intro":"x"}}}
+{
+"value": 
+
+{
+"cesar": 
+
+{
+"contenido": "I have enjoyed using React JS, Node JS and Mongo DB, but that's not quite the case for PHP, CakePHP and in general CMS based on PHP. As for projects, when I worked at Central de Cambio, I developed the website (centraldecambio.com) and also a side project for the Hub. I would like to learn more about Web security, because I feel even though I have worked on web development for a while, I have not implemented the best practices on terms of security. I have some experience on frontend topics, as well as a bit from backend.",
+"nombre": "César Espinosa"
+},
+"dennis": 
+
+{
+"contenido": "I've only used a framework from python called Flask and mongoDB with HTML CSS and JS. \tThe only project that I've done was for the course of Bases de Datos Avanzadas which calculated the probability of making any transaction between football teams.  \tI want to learn more tools and master the ones that are the most used.  I more less know JSON, HTML, CSS, and JS.",
+"nombre": "Dennis Kingston"
+},
+"miguel": 
+
+{
+"contenido": "Throughout my time developing I've used a bunch of different tools, like Ruby on rails, Flask, ASP.NET Core, PHP, also I've used some of the most common DBs, like SQL, MongoDB, Cassandra, Azure Storage, Firebase and others. I really don't like Python, and sometimes JS. I'm proud of my work with 'Federacion de hemofilia', we really worked to get a good system for them regarding the registration of patients. I would like to learn more about the technologies that are getting tracktion. I'm familiar with JSON, Backend development and web services on various standards, as well as some part of distributed systems based on the actor model.",
+"nombre": "Miguel Pérez"
+},
+"paco": 
+
+{
+"contenido": "Some web related tools I like are: Firebase and JQuery and the web standards (HTML, CSS, JS). I’ve never had bad experiences with the tool, but that’s maybe because I haven’t use a lot of them. One project I’m proud of is the webpage that my team created for the hospital. What I expect from the class is to become better at developing back-end and services for web applications. Some of the topics I’m familiar with are front-end and a little bit of back-end.",
+"nombre": "Francisco Robles"
+},
+"proyecto": 
+
+{
+"descripcion": "The app will do a tracking of the bus in real-time so the users know where the bus is and they won't miss it. Also, it will provide statistics for future improvement of the service.",
+"intro": "Application for the ExpresoTec"
+}
+}
+}
